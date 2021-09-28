@@ -1,4 +1,4 @@
-package by.tms.homework1;
+﻿package by.tms.homework1;
 
 import java.util.Scanner;
 

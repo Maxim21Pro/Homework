@@ -1,0 +1,6 @@
+<application>
+  <component name="RefactoringSettings">
+    <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
+    <option name="INTRODUCE_CONSTANT_REPLACE_ALL" value="true" />
+  </component>
+</application>
